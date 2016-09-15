@@ -1,0 +1,30 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author" : "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/GlifWalls/master/1277_2048x2048_allipadwallpapers_com.jpg",
+			"name": "Forest"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/GlifWalls/master/1335_2048x2048_allipadwallpapers_com.jpg",
+			"name": "Sunset"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/GlifWalls/master/1908_2048x2048_allipadwallpapers_com.jpg",
+			"name" : "Circles"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/GlifWalls/master/3452_2048x2048_allipadwallpapers_com.jpg",
+			"name": "Pink Sky"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/GlifWalls/master/997_2048x2048_allipadwallpapers_com.jpg",
+			"name": "Poly"
+		}
+	]
+}
